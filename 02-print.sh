@@ -9,5 +9,5 @@ echo HELLO WORLD
 
 
 echo -e "\e[31mHELLO RED COLOR\e[0m"
-echo -e "\e[32mHELLO GREEN COLOR\e[0M"
+echo -e "\e[32mHELLO GREEN COLOR\e[0m"
 echo -e "\e[33mHELLO YELLOW COLOR\e[0m"

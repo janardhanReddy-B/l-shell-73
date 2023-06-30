@@ -15,3 +15,5 @@ echo value of a is $a
 
 #another way accessing variable is ${a}
 echo value of a is ${a}
+
+
